@@ -1,9 +1,18 @@
 # Database-of-Indian-Celebrities-with-their-personality-traits
-A database of Bollywood Celebrities with their images and their personality traits created using Web-scrapping and lxml as the parser
+A database of Bollywood Celebrities with their images and their personality traits created using Web-scrapping and **lxml** as the parser
 
 ## Install the package dependencies:
 While in the root directory, run the following command:
 ` pip3 install -r requirements.txt`
+
+## Getting started:
+1. Open system terminal 
+![Terminal](terminal.png)
+
+2. Type in the command inside the root directory:
+`pip3 install -r requirements.txt`
+
+3. Go to the **manipulation.py** folder and run the script 
 
 ## Information about the files:
 1) traits, traits_1 , traits_2                                    ---> HTML files for extracting the traits from the website
